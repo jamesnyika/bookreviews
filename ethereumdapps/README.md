@@ -1,9 +1,10 @@
-#Book Review By James Nyika
-
+# Building Ethereum Dapps
+### Book Review By James Nyika
+## April 15, 2017
 
 This document is an advanced review of the manuscript text of this book as feedback to the author on the subject within
 For more information and additional questions or work requests please reach out through github or create an issue.
 
 # Table of Contents
 
-[Building Etherium Dapps - Manning Books](./ethereumdapps/README.md)
+[Chapter 1 - A first look at decentralized apps](./c1.md)
