@@ -9,4 +9,4 @@ jnyika@gmail.com
 
 # Table of Contents
 
-[Chapter 1 - A first look at decentralized apps](./c1.md)
+[Chapter 1 - A first look at decentralized apps](#Chapter 1 - A First Look at Decentralized Apps) 
