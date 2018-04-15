@@ -6,3 +6,7 @@ This document is an advanced review of the manuscript text of this book as feedb
 For more information and additional questions or work requests reach out to :
 
 jnyika@gmail.com
+
+# Table of Contents
+
+[Chapter 1 - A first look at decentralized apps](./c1.md)
