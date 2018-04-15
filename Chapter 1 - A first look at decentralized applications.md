@@ -1,0 +1,18 @@
+## General Comments
+* External References  
+  -there are references to sites like Openbazaar and other entities. If possible, add these to a bibliography at the end
+    - for ePub, pdf and other electronic  formats, make these inline links eg. Openbazaar (link)
+    - for the physical text, a resource reference sheet or set of links at the end might work very well.
+
+## Specific Line Item Comments
+
+* Page 2 - What if the rules ~~suspending~~  escrowing  and then releasing the money transfer where encoded in logic, not subjected to manual interaction?  
+  - money is not really suspended. Rather it is held back till delivery - a situation that escrowing describes better. There might be a better word for this though but this is what I would think of it as.
+
+
+  * Page 3 - Definition of Centralized Application : A centralized application or system is controlled by a single or central entity: *an individual*, a company, an institution, a governmental agency.  
+    - add individuals to the list
+
+
+    * Page 3 - Definition of Centralized Application : A centralized application or system is controlled by a single or central entity: *an individual*, a company, an institution, a governmental agency.  
+      - add individuals to the list
