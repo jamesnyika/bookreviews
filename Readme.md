@@ -3,10 +3,8 @@
 ## April 15, 2017
 
 This document is an advanced review of the manuscript text of this book as feedback to the author on the subject within
-For more information and additional questions or work requests reach out to :
-
-jnyika@gmail.com
+For more information and additional questions or work requests please reach out through github or create an issue.
 
 # Table of Contents
 
-[Chapter 1 - A first look at decentralized apps](#Chapter 1 - A First Look at Decentralized Apps) 
+[Chapter 1 - A first look at decentralized apps](#Header  Chapter 1 - A First Look at Decentralized Apps) 
