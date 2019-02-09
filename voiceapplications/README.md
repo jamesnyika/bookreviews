@@ -8,7 +8,7 @@ For more information and additional questions or work requests please reach out 
 # Table of Contents
 
 * [Chapter 1 - Introduction to Voice First](./c1.md)
-* [Chapter 2 - Understanding the Blockchain](./c2.md)
+* [Chapter 2 - Building a Call and Response Skill](./c2.md)
 * [Chapter 3 - The Ethereum Platform](./c3.md)
 * [Chapter 4 - Deploying your first smart contract](./c4.md)
 * [Chapter 5 - Programming Smart Contracts in Solidity](./c5.md)
