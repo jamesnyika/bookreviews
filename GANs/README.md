@@ -16,3 +16,5 @@ For more information and additional questions or work requests please reach out 
 * [Chapter 7 - Semi-Supervised GAN](./c7.md)
 * [Chapter 8 - Conditional GAN](./c8.md)
 * [Chapter 9 - CycleGAN](./c9.md)
+* [Chapter 10 - Adversarial Examples](./c10.md)
+* [Chapter 11 - Practical Applications of GANs](./c11.md)
