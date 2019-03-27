@@ -18,3 +18,4 @@ For more information and additional questions or work requests please reach out 
 * [Chapter 9 - CycleGAN](./c9.md)
 * [Chapter 10 - Adversarial Examples](./c10.md)
 * [Chapter 11 - Practical Applications of GANs](./c11.md)
+* [Chapter 12 - Looking Ahead](./c12.md)
